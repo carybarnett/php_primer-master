@@ -15,8 +15,8 @@
         echo '<br/>';
     
         // Variables need a '$'. They are not strongly typed
-        $name = 'Cary W Barnett';
-        $age = 21;
+        $name = 'Cary Barnett';
+        $age = 42;
         // echo variable
         echo $name;
         echo '<h1>My Name Is: '.$name.' </h1>';
